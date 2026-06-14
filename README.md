@@ -199,7 +199,6 @@ Frontend runs on:
 http://localhost:3000
 ```
 
----
 
 ## Future Enhancements
 
@@ -216,8 +215,6 @@ Planned features:
 - Network Health Monitoring
 - Legacy Data Import Module
 
----
-
 ## Motivation
 
 The goal of NetzFlow is to simulate a modern internal enterprise operations portal similar to systems used by infrastructure, network, and operations teams.
@@ -230,12 +227,13 @@ The project focuses on:
 - Operational workflow management
 - Portal modernization concepts
 
----
 
 ## Screenshots
 
 ![Dashboard](/dashboard.png)
----
+![Dashboard](/devices.png)
+![Dashboard](/tickets.png)
+![Dashboard](/details.png)
 
 ## Author
 
