@@ -234,8 +234,7 @@ The project focuses on:
 
 ## Screenshots
 
-
-
+![Dashboard](/dashboard.png)
 ---
 
 ## Author
